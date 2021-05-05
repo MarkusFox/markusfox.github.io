@@ -80,6 +80,9 @@ author:
     - label: "GoogleScholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.at/citations?user=xNWo_VAAAAAJ&hl=de"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@markus.fox90"
     - label: "TheSimGrid"
       icon: "fas fa-fw fa-flag-checkered"
       url: "https://www.thesimgrid.com/drivers/9578-markusfox"
@@ -92,8 +95,6 @@ author:
 
 footer:
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MarkusFox"
