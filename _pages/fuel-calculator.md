@@ -26,6 +26,7 @@ Hello fellow Sim-Racer! On this page you find a simple but effective tool to cal
       justify-content:space-between;
       flex-direction:row;
       flex-wrap:wrap;
+      align-items: flex-end;
       }
       .colums div {
       width:48%;
@@ -41,7 +42,6 @@ Hello fellow Sim-Racer! On this page you find a simple but effective tool to cal
       }
         .radio-toolbar {
         margin: 30px;
-        align: center;
         }
 
         .radio-toolbar input[type="radio"] {
@@ -70,6 +70,15 @@ Hello fellow Sim-Racer! On this page you find a simple but effective tool to cal
             background-color: #8cd2d5;
             <!-- border-color: #4c4; -->
         }
+
+        .cent {
+            width: 45%;
+            margin: 0 auto;
+        }
+
+        #lapstotal, #timeleft {
+            flex: 0 0 50%;
+        }
     </style>
   </head>
   <body>
@@ -79,20 +88,16 @@ Hello fellow Sim-Racer! On this page you find a simple but effective tool to cal
           <h1>Fuel Calculation</h1>
         </div> -->
         <div class="radio-toolbar">
-            <input id="choosetime" type="radio" name="select" onclick="swap();" checked/>
-            <label for="choosetime">Minutes</label>
-            <input id="chooselaps" type="radio" name="select" onclick="swap();" value="Laps"/>
-            <label for="chooselaps">Laps</label>
+            <div class="cent">
+                <input id="choosetime" type="radio" name="select" onclick="swap();" checked/>
+                <label for="choosetime">Minutes</label>
+                <input id="chooselaps" type="radio" name="select" onclick="swap();" value="Laps"/>
+                <label for="chooselaps">Laps</label>
+            </div>
         </div>
-        <div class="colums">
-            <div class="item">
+        <div class="item">
             <label for="duration" id="durationlabel">Race length (in minutes)</label>
             <input id="duration" type="number" name="duration" onchange="calculate()"/>
-            </div>
-            <!-- <div class="item">
-            <label for="laps">Laps</label>
-            <input id="laps" type="number" name="laps" onchange="calculate();"/>
-            </div> -->
         </div>
         <div class="times">
             <div class="item">
