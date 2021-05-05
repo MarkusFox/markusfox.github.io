@@ -72,7 +72,7 @@ Hello fellow Sim-Racer! On this page you find a simple but effective tool to cal
         }
 
         .cent {
-            width: 45%;
+            width: 258px;
             margin: 0 auto;
         }
 
