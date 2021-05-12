@@ -9,27 +9,29 @@ I am a machine learning research engineer with a strong interest in understandin
 
 ## Education
 <b>University of Klagenfurt, Master Applied Informatics</b> | Feb. 2019 - Feb. 2021\
-Specialization: Knowledge & Data Engineering\
-Relevant Coursework: Applied Machine Learning, Data Mining and Neurocomputing, Advanced Topics in AI, Object Detection with Mask R-CNN and Capsule Networks\
+<i>Specialization:</i> Knowledge & Data Engineering\
+<i>Relevant Coursework:</i> Applied Machine Learning, Data Mining and Neurocomputing, Advanced Topics in AI, Object Detection with Mask R-CNN and Capsule Networks\
+<!-- <iframe src="https://drive.google.com/file/d/1UM23Y5VIqS9wPzEMlFLqM0rwx9mTBgud/preview" width="640" height="480"></iframe> -->
 \
 <b>University of Klagenfurt, Bachelor Applied Informatics</b> | Oct. 2015 - Feb. 2019\
-Specialization: Software Development\
-Relevant Coursework: Algorithms & Data structures, Databases, Selected Topics in Machine Learning, Distributed Systems, Software Engineering, Scientific Writing
+<i>Specialization:</i> Software Development\
+<i>Relevant Coursework:</i> Algorithms & Data structures, Databases, Selected Topics in Machine Learning, Distributed Systems, Software Engineering, Scientific Writing
 
 ## Experience
 <b>PhD Student & Researcher, University of Klagenfurt</b> | Feb. 2021 - present\
-SQUASH - Surgical Quality Assessment in Gynecologic Laparoscopy\
-Analysis and processing of medical data; Training of various deep learning algorithms\
+<i>SQUASH - Surgical Quality Assessment in Gynecologic Laparoscopy</i>\
+Application of state-of-the-art deep learning algorithms in video recognition, e.g. 3DConvNets\
 \
 <b>Student Research Assistant, University of Klagenfurt</b> | Oct. 2018 - Feb. 2021\
-OVID - Relevance Detection in Ophthalmic Surgery Videos with Deep Neural Networks Analysis and processing of medical data; Training of various deep learning algorithms\
+<i>OVID - Relevance Detection in Ophthalmic Surgery Videos with Deep Neural Networks</i>\
+Extending a web-based video annotation tool; Analysis and processing of medical data; Training of convolutional neural networks (CNNs)\
 \
 <b>Internship, University of Klagenfurt</b> | Feb. 2018 - Oct. 2018\
 Evaluation of Machine Learning in iOS (CoreML)\
 Implementing and testing various ML-models (Caffe, Tensorflow) on Apple’s iOS devices
 
 ## Skills
-- Proficiency in Python, Java, Swift and R
+- Proficiency in Python, JavaScript, Swift, Java and R
 - Ability to work independently to accomplish project goals
 - Good presentation skills
 - Clear, concise writing skills

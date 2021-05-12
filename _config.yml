@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: M.Fox
+title: 🇦🇹 M.Fox
 email: markus.fox90@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -87,7 +87,7 @@ author:
       icon: "fas fa-fw fa-flag-checkered"
       url: "https://www.thesimgrid.com/drivers/9578-markusfox"
     - label: "Fuel Calculator"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-gas-pump"
       url: "/fuel-calculator/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
@@ -95,15 +95,24 @@ author:
 
 footer:
   links:
-    - label: "GitHub"
+    - label: " "
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MarkusFox"
-    - label: "LinkedIn"
+    - label: " "
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/markusfox90/"
-    - label: "TheSimGrid"
+    - label: " "
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.at/citations?user=xNWo_VAAAAAJ&hl=de"
+    - label: " "
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@markus.fox90"
+    - label: " "
       icon: "fas fa-fw fa-flag-checkered"
       url: "https://www.thesimgrid.com/drivers/9578-markusfox"
+    - label: " "
+      icon: "fas fa-fw fa-gas-pump"
+      url: "/fuel-calculator/"
 
 defaults:
   # _posts

@@ -1,12 +1,14 @@
 main:
+  - title: "Work"
+    url: /work/
   - title: "Posts"
     url: /posts/
   - title: "CV"
     url: /cv/
     description: "Curriculum Vitae"
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
   - title: "About"
     url: /about/
