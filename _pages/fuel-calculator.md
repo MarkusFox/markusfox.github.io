@@ -2,11 +2,15 @@
 title: "Sim Racing Fuel Calculator"
 permalink: /fuel-calculator/
 author_profile: false
+excerpt: "Hello fellow Sim-Racer! On this page you find a simple but effective tool to calculate your fuel consumption before or during the race."
+header:
+  overlay_color: "#1f242c"
+  overlay_image: /assets/images/fuel_bg.jpeg
+  overlay_filter: 0.3
+  caption: "Photo credit: [**Porsche Motorsport**](https://twitter.com/PorscheRaces/status/998233315760058368/photo/1)"
 # layout: empty
 # toc: true
 ---
-<!-- # Hello World -->
-Hello fellow Sim-Racer! On this page you find a simple but effective tool to calculate your fuel consumption before or during the race.
 
 <html>
   <head>
