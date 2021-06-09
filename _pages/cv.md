@@ -14,7 +14,7 @@ Relevant Coursework: <i>Applied Machine Learning, Data Mining and Neurocomputing
 <!-- <iframe src="https://drive.google.com/file/d/1UM23Y5VIqS9wPzEMlFLqM0rwx9mTBgud/preview" width="640" height="480"></iframe> -->
 \
 <b>University of Klagenfurt, Bachelor Applied Informatics</b> | Oct. 2015 - Feb. 2019\
-Specialization:<i>Software Development</i>\
+Specialization: <i>Software Development</i>\
 Relevant Coursework: <i>Algorithms & Data structures, Software Engineering, Databases, Selected Topics in Machine Learning, Distributed Systems, Scientific Writing</i>
 
 ## Experience
