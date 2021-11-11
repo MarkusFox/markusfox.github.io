@@ -13,167 +13,315 @@ I love gaining new knowledge through reading. That's why, a few years ago, I dec
 
 My personal tip: going for a walk and listening to the book on Audible. There's something about movement that makes our brains process the information easier.
 
-The list is not sorted in any particular way, except that my favourites are on top. Here we go:
+The list is not sorted in any particular way, except that my top 5 are on top and some must-reads are highlighted. Here we go:
 
-<div class="notice--primary">
+<div class="notice--success">
+  <h4>Flow: Das Geheimnis des Glücks</h4>
+  <p>Mihaly Csikszentmihalyi</p>
+</div>
+
+<div class="notice--success">
+  <h4>Why We Sleep: Unlocking the Power of Sleep and Dreams</h4>
+  <p>Matthew Walker</p>
+</div>
+
+<div class="notice--success">
+  <h4>Du musst nicht von allen gemocht werden: Vom Mut, sich nicht zu verbiegen</h4>
+  <p>Ichiro Kishimi</p>
+</div>
+
+<div class="notice--success">
+  <h4>Life 3.0: Being Human in the Age of Artificial Intelligence</h4>
+  <p>Max Tegmark</p>
+</div>
+
+<div class="notice--success">
+  <h4>Quiet: The Power of Introverts in a World That Can't Stop Talking</h4>
+  <p>Susan Cain</p>
+</div>
+
+<div class="notice">
   <h4>Noise</h4>
   <p>Daniel Kahneman, Olivier Sibony, Cass R. Sunstein</p>
 </div>
 
-**Barking up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong** - Eric Barker
-{: .notice--primary}
+<div class="notice">
+  <h4>Barking up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong</h4>
+  <p>Eric Barker</p>
+</div>
 
-**Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think** - Hans Rosling , Ola Rosling , Anna Rosling Rönnlund
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think</h4>
+  <p>Hans Rosling, Ola Rosling, Anna Rosling Rönnlund</p>
+</div>
 
-**Flow (German edition): Das Geheimnis des Glücks** - Mihaly Csikszentmihalyi
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>The Art of Impossible: A Peak Performance Primer</h4>
+  <p>Steven Kotler</p>
+</div>
 
-**The Art of Impossible: A Peak Performance Primer** - Steven Kotler
-{: .notice--primary}
+<div class="notice">
+  <h4>Where Good Ideas Come From: The Natural History of Innovation</h4>
+  <p>Steven Johnson</p>
+</div>
 
-**Where Good Ideas Come From: The Natural History of Innovation** - Steven Johnson
-{: .notice--primary}
+<div class="notice">
+  <h4>OKR. Objectives & Key Results: Wie Sie Ziele, auf die es wirklich ankommt, entwickeln, messen und umsetzen</h4>
+  <p>John Doerr</p>
+</div>
 
-**OKR. Objectives & Key Results: Wie Sie Ziele, auf die es wirklich ankommt, entwickeln, messen und umsetzen** - John Doerr
-{: .notice--primary}
+<div class="notice">
+  <h4>Thinking in Systems: A Primer</h4>
+  <p>Donella H. Meadows</p>
+</div>
 
-**Thinking in Systems: A Primer** - Donella H. Meadows
-{: .notice--primary}
+<div class="notice">
+  <h4>The 50th Law</h4>
+  <p>50 Cent, Robert Greene</p>
+</div>
 
-**The 50th Law** - 50 Cent, Robert Greene
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>The Righteous Mind: Why Good People Are Divided by Politics and Religion</h4>
+  <p>Jonathan Haidt</p>
+</div>
 
-**The Righteous Mind: Why Good People Are Divided by Politics and Religion** - Jonathan Haidt
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>The Happiness Hypothesis</h4>
+  <p>Jonathan Haidt</p>
+</div>
 
-**The Happiness Hypothesis** - Jonathan Haidt
-{: .notice--primary}
+<div class="notice">
+  <h4>It Doesn’t Have to Be Crazy at Work</h4>
+  <p>Jason Fried, David Heinemeier Hansson</p>
+</div>
 
-**It Doesn’t Have to Be Crazy at Work** -  Jason Fried , David Heinemeier Hansson
-{: .notice--primary}
+<div class="notice">
+  <h4>Das Hindernis ist der Weg: Mit der Philosophie der Stoiker zum Triumph</h4>
+  <p>Ryan Holiday</p>
+</div>
 
-**Das Hindernis ist der Weg: Mit der Philosophie der Stoiker zum Triumph** - Ryan Holiday
-{: .notice--primary}
+<div class="notice">
+  <h4>Warum dänische Kinder glücklicher und ausgeglichener sind: Die Erziehungsgeheimnisse des glücklichsten Volks der Welt</h4>
+  <p>Jessica Joelle Alexander, Iben Dissing Sandahl</p>
+</div>
 
-**Warum dänische Kinder glücklicher und ausgeglichener sind: Die Erziehungsgeheimnisse des glücklichsten Volks der Welt** - Jessica Joelle Alexander , Iben Dissing Sandahl
-{: .notice--primary}
+<div class="notice">
+  <h4>The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity - And Will Determine the Fate of the Human Race</h4>
+  <p>Daniel Z. Lieberman MD, Michael E. Long</p>
+</div>
 
-**The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity - And Will Determine the Fate of the Human Race** - Daniel Z. Lieberman MD , Michael E. Long
-{: .notice--primary}
+<div class="notice">
+  <h4>Human Compatible: Artificial Intelligence and the Problem of Control</h4>
+  <p>Stuart Russell</p>
+</div>
 
-**Human Compatible: Artificial Intelligence and the Problem of Control** - Stuart Russell
-{: .notice--primary}
+<div class="notice">
+  <h4>Why Trust Science?: The University Center for Human Values, Book 1</h4>
+  <p>Naomi Oreskes</p>
+</div>
 
-**Why Trust Science?: The University Center for Human Values, Book 1** - Naomi Oreskes
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>Surely You're Joking, Mr. Feynman!</h4>
+  <p>Richard P. Feynman</p>
+</div>
 
-**Surely You're Joking, Mr. Feynman!** - Richard P. Feynman
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>Du bist genug: Vom Mut, glücklich zu sein</h4>
+  <p>Ichiro Kishimi, Fumitake Koga</p>
+</div>
 
-**Why We Sleep: Unlocking the Power of Sleep and Dreams** - Matthew Walker
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>Einstein: His Life and Universe</h4>
+  <p>Walter Isaacson</p>
+</div>
 
-**Du bist genug: Vom Mut, glücklich zu sein** - Ichiro Kishimi, Fumitake Koga
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>Range: Why Generalists Triumph in a Specialized World</h4>
+  <p>David Epstein</p>
+</div>
 
-**Du musst nicht von allen gemocht werden: Vom Mut, sich nicht zu verbiegen** - Ichiro Kishimi
-{: .notice--primary}
+<div class="notice">
+  <h4>Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career</h4>
+  <p>Scott Young</p>
+</div>
 
-**Einstein: His Life and Universe** - Walter Isaacson
-{: .notice--primary}
+<div class="notice">
+  <h4>So Good They Can't Ignore You</h4>
+  <p>Cal Newport</p>
+</div>
 
-**Range: Why Generalists Triumph in a Specialized World** - David Epstein
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>How to Win Friends & Influence People</h4>
+  <p>Dale Carnegie</p>
+</div>
 
-**Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career** - Scott Young
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change</h4>
+  <p>Steven R. Covey</p>
+</div>
 
-**So Good They Can't Ignore You** - Cal Newport
-{: .notice--primary}
+<div class="notice">
+  <h4>The Art of Thinking Clearly: Better Thinking, Better Decisions</h4>
+  <p>Rolf Dobelli</p>
+</div>
 
-**How to Win Friends & Influence People** - Dale Carnegie
-{: .notice--primary}
+<div class="notice">
+  <h4>The Science of Self-Learning: How to Teach Yourself Anything, Learn More in Less Time, and Direct Your Own Education</h4>
+  <p>Peter Hollins</p>
+</div>
 
-**The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change** - Steven R. Covey
-{: .notice--primary}
+<div class="notice">
+  <h4>Zero to One: Notes on Startups, or How to Build the Future</h4>
+  <p>Peter Thiel, Blake Masters</p>
+</div>
 
-**The Art of Thinking Clearly: Better Thinking, Better Decisions** - Rolf Dobelli
-{: .notice--primary}
+<div class="notice">
+  <h4>ColdFusion Presents: New Thinking: From Einstein to Artificial Intelligence, the Science and Technology That Transformed Our World</h4>
+  <p>Dagogo Altraide</p>
+</div>
 
-**The Science of Self-Learning: How to Teach Yourself Anything, Learn More in Less Time, and Direct Your Own Education** - Peter Hollins
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>Peak: Secrets from the New Science of Expertise</h4>
+  <p>Robert Pool, Anders Ericsson</p>
+</div>
 
-**Zero to One: Notes on Startups, or How to Build the Future** - Peter Thiel, Blake Masters
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>Eine kurze Geschichte der Zeit</h4>
+  <p>Stephen Hawking</p>
+</div>
 
-**ColdFusion Presents: New Thinking: From Einstein to Artificial Intelligence, the Science and Technology That Transformed Our World** - Dagogo Altraide
-{: .notice--primary}
+<div class="notice">
+  <h4>The Science of Accelerated Learning: Advanced Strategies for Quicker Comprehension, Greater Retention, and Systematic Expertise</h4>
+  <p>Peter Hollins</p>
+</div>
 
-**Peak: Secrets from the New Science of Expertise** - Robert Pool , Anders Ericsson
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>Schnelles Denken, langsames Denken</h4>
+  <p>Daniel Kahnemann</p>
+</div>
 
-**Eine kurze Geschichte der Zeit** - Stephen Hawking
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>When Einstein Walked with Gödel: Excursions to the Edge of Thought</h4>
+  <p>Jim Holt</p>
+</div>
 
-**The Science of Accelerated Learning: Advanced Strategies for Quicker Comprehension, Greater Retention, and Systematic Expertise** - Peter Hollins
-{: .notice--primary}
+<div class="notice">
+  <h4>21 Lessons for the 21st Century</h4>
+  <p>Yuval Noah Harari</p>
+</div>
 
-**Schnelles Denken, langsames Denken** - Daniel Kahnemann
-{: .notice--primary}
+<div class="notice">
+  <h4>Rich Dad Poor Dad: What the Rich Teach Their Kids About Money - That the Poor and Middle Class Do Not!</h4>
+  <p>Robert T. Kiyosaki</p>
+</div>
 
-**When Einstein Walked with Gödel: Excursions to the Edge of Thought** - Jim Holt
-{: .notice--primary}
+<div class="notice">
+  <h4>12 Rules for Life: An Antidote to Chaos</h4>
+  <p>Jordan B. Peterson</p>
+</div>
 
-**21 Lessons for the 21st Century** - Yuval Noah Harari
-{: .notice--primary}
+<div class="notice">
+  <h4>Enlightenment Now: The Case for Reason, Science, Humanism, and Progress</h4>
+  <p>Steven Pinker</p>
+</div>
 
-**Life 3.0: Being Human in the Age of Artificial Intelligence** - Max Tegmark
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>Algorithms to Live By: The Computer Science of Human Decisions</h4>
+  <p>Brian Christian, Tom Griffiths</p>
+</div>
 
-**Rich Dad Poor Dad: What the Rich Teach Their Kids About Money - That the Poor and Middle Class Do Not!** - Robert T. Kiyosaki
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>Grit: The Power of Passion and Perseverance</h4>
+  <p>Angela Duckworth</p>
+</div>
 
-**12 Rules for Life: An Antidote to Chaos** - Jordan B. Peterson
-{: .notice--primary}
+<div class="notice">
+  <h4>Outliers: The Story of Success</h4>
+  <p>Malcolm Gladwell</p>
+</div>
 
-**Enlightenment Now: The Case for Reason, Science, Humanism, and Progress** - Steven Pinker
-{: .notice--primary}
+<div class="notice">
+  <h4>Essentialism: The Disciplined Pursuit of Less</h4>
+  <p>Greg McKeown</p>
+</div>
 
-**Algorithms to Live By: The Computer Science of Human Decisions** - Brian Christian , Tom Griffiths
-{: .notice--primary}
+<div class="notice">
+  <h4>Sleep Smarter: 21 Essential Strategies to Sleep Your Way to a Better Body, Better Health, and Bigger Success</h4>
+  <p>Shawn Stevenson, Sara Gottfried MD</p>
+</div>
 
-**Grit: The Power of Passion and Perseverance** - Angela Duckworth
-{: .notice--primary}
+<div class="notice">
+  <h4>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future</h4>
+  <p>Ashley Vance</p>
+</div>
 
-**Outliers: The Story of Success** - Malcolm Gladwell
-{: .notice--primary}
+<div class="notice">
+  <h4>Mastery</h4>
+  <p>Robert Greene</p>
+</div>
 
-**Essentialism: The Disciplined Pursuit of Less** - Greg McKeown
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>How to Be an Imperfectionist: The New Way to Self-Acceptance, Fearless Living, and Freedom from Perfectionism</h4>
+  <p>Stephen Guise</p>
+</div>
 
-**Sleep Smarter: 21 Essential Strategies to Sleep Your Way to a Better Body, Better Health, and Bigger Success** - Shawn Stevenson , Sara Gottfried MD
-{: .notice--primary}
+<div class="notice">
+  <h4>How to Work a Room: The Ultimate Guide to Making Lasting Connections</h4>
+  <p>Susane RoAne</p>
+</div>
 
-**Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future** - Ashley Vance
-{: .notice--primary}
+<div class="notice">
+  <h4>The Little Book of Talent</h4>
+  <p>Daniel Coyle</p>
+</div>
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<div class="notice">
+  <h4>The Luck Factor: The Scientific Study of the Lucky Mind</h4>
+  <p>Richard Wiseman</p>
+</div>
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<div class="notice">
+  <h4>The Best That Money Can't Buy: Beyond Politics, Poverty and War</h4>
+  <p>Jacque Fresco</p>
+</div>
 
-Jekyll also offers powerful support for code snippets:
+<div class="notice--primary">
+  <h4>The Charisma Myth: How to Engage, Influence and Motivate People</h4>
+  <p>Olivia Fox Cabane</p>
+</div>
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+<div class="notice">
+  <h4>How to Raise Your Self-Esteem: The Proven Action-Oriented Approach to Greater Self-Respect and Self-Confidence</h4>
+  <p>Nathaniel Branden</p>
+</div>
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<div class="notice--primary">
+  <h4>A Million Thoughts: Learn All About Meditation from a Himalayan Mystic</h4>
+  <p>Om Swami</p>
+</div>
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<div class="notice">
+  <h4>Alles Idioten!?: Endlich verstehen, wie andere ticken</h4>
+  <p>Thomas Erikson, Christa Broermann</p>
+</div>
+
+<div class="notice">
+  <h4>The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living</h4>
+  <p>Ryan Holiday, Stephen Hanselman</p>
+</div>
+
+<!-- <div class="notice--primary">
+  <h4></h4>
+  <p></p>
+</div>
+
+<div class="notice--primary">
+  <h4></h4>
+  <p></p>
+</div>
+
+<div class="notice--primary">
+  <h4></h4>
+  <p></p>
+</div> -->
+
