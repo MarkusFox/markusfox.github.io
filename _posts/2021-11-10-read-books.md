@@ -17,7 +17,7 @@ My personal tip: going for a walk and listening to the book on Audible. There's 
 The list is not sorted in any particular way, except that my top 5 are on top and some must-reads are highlighted. Here we go:
 
 <div class="notice--success">
-  <h4>Flow: Das Geheimnis des Glücks</h4>
+  <h4>Flow: The Psychology of Optimal Experience</h4>
   <p>Mihaly Csikszentmihalyi</p>
 </div>
 

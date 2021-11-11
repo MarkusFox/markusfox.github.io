@@ -3,6 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+My name is `Markus Fox`, and I'm a **researcher/engineer** at the *University of Klagenfurt* working in computer vision and machine learning. I enjoy programming and learning new technologies. In general, I'm a very down-to-earth and calm person. In my spare time, I like going for long walks, listening to podcasts, watching sports, and I'm also a passionate sim-racer, competing in online championships and one-off events. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I've recently finished my **Dipl.Ing. (MSc)** in **computer science** at the *University of Klagenfurt*. Now, I want to apply my problem-solving and technical skills to benefit other people and organizations. I'm looking for an employer/team that tries to solve exciting and challenging problems, while caring about the work-life balance of their employees.
+
+If you're curious about what books I'm reading, check out my [blog post](https://markusfox.github.io/blog/read-books/).
+
