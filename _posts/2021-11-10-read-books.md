@@ -9,12 +9,16 @@ tags:
   - knowledge
 ---
 
-I love gaining new knowledge through reading. That's why, a few years ago, I decided to add a reading target to my list of personal goals: `read 1 book/month`. At the end of each year I make sure to have read at least 12 books. My personal favourite is going for a walk and listening to the book on audible. There's something about movement that makes my brain process the information easier.
+I love gaining new knowledge through reading. That's why, a few years ago, I decided to add a reading target to my list of personal goals: `read 1 book/month`. At the end of each year I make sure to have read at least 12 books. 
+
+My personal tip: going for a walk and listening to the book on Audible. There's something about movement that makes our brains process the information easier.
 
 The list is not sorted in any particular way, except that my favourites are on top. Here we go:
 
-**Noise** - Daniel Kahneman , Olivier Sibony , Cass R. Sunstein
-{: .notice--primary}
+<div class="notice--primary">
+  <h4>Noise</h4>
+  <p>Daniel Kahneman, Olivier Sibony, Cass R. Sunstein</p>
+</div>
 
 **Barking up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong** - Eric Barker
 {: .notice--primary}
