@@ -8,17 +8,17 @@ toc: true
 <!-- I am a machine learning research engineer with a strong interest in understanding general/artificial intelligence and human nature. I love spending time musing about ideas and possibilities, and I want to apply my problem-solving and technical skills to benefit other people and organizations. -->
 
 ## Education
-<b>University of Klagenfurt, Dipl.Ing. (MSc) Applied Informatics</b> | Feb. 2019 - Feb. 2021\
+<b>Dipl.-Ing. (MSc) Applied Informatics, University of Klagenfurt</b> | Feb. 2019 - Feb. 2021\
 Specialization: <i>Knowledge & Data Engineering</i>\
 Relevant Coursework: <i>Applied Machine Learning, Data Mining and Neurocomputing, Advanced Topics in AI, [Object Detection with Mask R-CNN and Capsule Networks](https://github.com/MarkusFox/residual-capsnet)</i>\
 <!-- <iframe src="https://drive.google.com/file/d/1UM23Y5VIqS9wPzEMlFLqM0rwx9mTBgud/preview" width="640" height="480"></iframe> -->
 \
-<b>University of Klagenfurt, BSc Applied Informatics</b> | Oct. 2015 - Feb. 2019\
+<b>BSc Applied Informatics, University of Klagenfurt</b> | Oct. 2015 - Feb. 2019\
 Specialization: <i>Software Development</i>\
 Relevant Coursework: <i>Algorithms & Data structures, Software Engineering, Databases, Selected Topics in Machine Learning, Distributed Systems</i>
 
 ## Experience
-<b>PhD Researcher, University of Klagenfurt</b> | Feb. 2021 - present\
+<b>Research Assistant, University of Klagenfurt</b> | Feb. 2021 - present\
 SQUASH - Surgical Quality Assessment in Gynecologic Laparoscopy\
 <i>Application of state-of-the-art deep learning algorithms in medical image- and video analysis, e.g. Mask R-CNN, Transformers - to determine surgical quality</i>\
 \
@@ -33,11 +33,12 @@ Evaluation of Machine Learning in iOS (CoreML)\
 ## Skills
 - Proficiency in `Python`, `JavaScript`, `Swift`, and `Java`
 - Hands-on experience with machine learning frameworks `PyTorch` and `TensorFlow`
+- `SQL`, `Git`, `OpenCV`, `NumPy`, `Pandas`, `scikit-learn`
 <!-- - Quick in absorbing new other programming language or technical tool  -->
 - Ability to work independently to accomplish project goals
+- Spoken languages: `German (native)` and `English (professional working proficiency)`
 - Good presentation skills
 - Clear, concise writing skills
-- Spoken languages: `German (native)` and `English (professional working proficiency)`
 - Ability to work effectively in a dynamic/team environment
 - Hands-on experience in implementing computer vision and machine learning algorithms using
 both toolkits and self-developed code
