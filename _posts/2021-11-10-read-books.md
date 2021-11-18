@@ -56,14 +56,14 @@ The list is not sorted in any particular way, except that my top 5 are on top an
   <p>Hans Rosling, Ola Rosling, Anna Rosling Rönnlund</p>
 </div>
 
-<div class="notice--primary">
-  <h4>The Art of Impossible: A Peak Performance Primer</h4>
-  <p>Steven Kotler</p>
-</div>
-
 <div class="notice">
   <h4>Where Good Ideas Come From: The Natural History of Innovation</h4>
   <p>Steven Johnson</p>
+</div>
+
+<div class="notice--primary">
+  <h4>The Art of Impossible: A Peak Performance Primer</h4>
+  <p>Steven Kotler</p>
 </div>
 
 <div class="notice">
@@ -111,6 +111,11 @@ The list is not sorted in any particular way, except that my top 5 are on top an
   <p>Daniel Z. Lieberman MD, Michael E. Long</p>
 </div>
 
+<div class="notice--primary">
+  <h4>Surely You're Joking, Mr. Feynman!</h4>
+  <p>Richard P. Feynman</p>
+</div>
+
 <div class="notice">
   <h4>Human Compatible: Artificial Intelligence and the Problem of Control</h4>
   <p>Stuart Russell</p>
@@ -119,11 +124,6 @@ The list is not sorted in any particular way, except that my top 5 are on top an
 <div class="notice">
   <h4>Why Trust Science?: The University Center for Human Values, Book 1</h4>
   <p>Naomi Oreskes</p>
-</div>
-
-<div class="notice--primary">
-  <h4>Surely You're Joking, Mr. Feynman!</h4>
-  <p>Richard P. Feynman</p>
 </div>
 
 <div class="notice--primary">
@@ -136,14 +136,14 @@ The list is not sorted in any particular way, except that my top 5 are on top an
   <p>Walter Isaacson</p>
 </div>
 
-<div class="notice--primary">
-  <h4>Range: Why Generalists Triumph in a Specialized World</h4>
-  <p>David Epstein</p>
-</div>
-
 <div class="notice">
   <h4>Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career</h4>
   <p>Scott Young</p>
+</div>
+
+<div class="notice--primary">
+  <h4>Range: Why Generalists Triumph in a Specialized World</h4>
+  <p>David Epstein</p>
 </div>
 
 <div class="notice">
@@ -231,6 +231,11 @@ The list is not sorted in any particular way, except that my top 5 are on top an
   <p>Brian Christian, Tom Griffiths</p>
 </div>
 
+<div class="notice">
+  <h4>Sleep Smarter: 21 Essential Strategies to Sleep Your Way to a Better Body, Better Health, and Bigger Success</h4>
+  <p>Shawn Stevenson, Sara Gottfried MD</p>
+</div>
+
 <div class="notice--primary">
   <h4>Grit: The Power of Passion and Perseverance</h4>
   <p>Angela Duckworth</p>
@@ -244,11 +249,6 @@ The list is not sorted in any particular way, except that my top 5 are on top an
 <div class="notice">
   <h4>Essentialism: The Disciplined Pursuit of Less</h4>
   <p>Greg McKeown</p>
-</div>
-
-<div class="notice">
-  <h4>Sleep Smarter: 21 Essential Strategies to Sleep Your Way to a Better Body, Better Health, and Bigger Success</h4>
-  <p>Shawn Stevenson, Sara Gottfried MD</p>
 </div>
 
 <div class="notice">
