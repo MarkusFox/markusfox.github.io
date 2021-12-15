@@ -42,6 +42,21 @@ The list is not sorted in any particular way, except that my top 5 are on top an
 </div>
 
 <div class="notice">
+  <h4>Will</h4>
+  <p>Will Smith, Mark Manson</p>
+</div>
+
+<div class="notice">
+  <h4>The Richest Man in Babylon</h4>
+  <p>George S. Clason</p>
+</div>
+
+<div class="notice">
+  <h4>The Alchemist: A Fable About Following Your Dream</h4>
+  <p>Paulo Coelho</p>
+</div>
+
+<div class="notice">
   <h4>Noise</h4>
   <p>Daniel Kahneman, Olivier Sibony, Cass R. Sunstein</p>
 </div>
