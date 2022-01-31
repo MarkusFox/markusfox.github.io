@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Markus Fox"
   avatar : "/assets/images/photo.png"
-  bio    : "PhD Researcher in Computer Vision 👁 / AI 🧠 at University of Klagenfurt, loves Sim Racing (ACC), Motorsport 🏁 and NFL 🏈."
+  bio    : "Computer Scientist (Computer Vision 👁 / AI 🧠 / iOS 📱), Sim Racer (ACC), loves NFL 🏈 and Motorsport 🏁."
   links:
   # ICONS at https://fontawesome.com/icons?d=gallery&p=9&m=free
     - label: "Klagenfurt, Austria"

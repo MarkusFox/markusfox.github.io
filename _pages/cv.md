@@ -15,15 +15,15 @@ Relevant Coursework: <i>Applied Machine Learning, Data Mining and Neurocomputing
 \
 <b>BSc Applied Informatics, University of Klagenfurt</b> | Oct. 2015 - Feb. 2019\
 Specialization: <i>Software Development</i>\
-Relevant Coursework: <i>Algorithms & Data structures, Software Engineering, Databases, Selected Topics in Machine Learning, Distributed Systems</i>
+Relevant Coursework: <i>Algorithms & Data structures, Software Engineering, Databases, Selected Topics in Machine Learning, Distributed Systems, Multimedia Apps (iOS & Android)</i>
 
 ## Experience
-<b>Research Assistant, University of Klagenfurt</b> | Feb. 2021 - present\
-SQUASH - Surgical Quality Assessment in Gynecologic Laparoscopy\
-<i>Application of state-of-the-art deep learning algorithms in medical image- and video analysis, e.g. Mask R-CNN, Transformers - to determine surgical quality</i>\
+<b>Research Assistant, University of Klagenfurt</b> | Feb. 2021 - Feb. 2022\
+<!-- SQUASH - Surgical Quality Assessment in Gynecologic Laparoscopy\ -->
+<i>Application of state-of-the-art deep learning algorithms in medical image- and video analysis, e.g. Mask R-CNN, Transformers - to determine surgical quality from videos</i>\
 \
 <b>Student Research Assistant, University of Klagenfurt</b> | Oct. 2018 - Feb. 2021\
-OVID - Relevance Detection in Ophthalmic Surgery Videos with Deep Neural Networks\
+<!-- OVID - Relevance Detection in Ophthalmic Surgery Videos with Deep Neural Networks\ -->
 <i>Extending a web-based video annotation tool; Analysis and processing of medical data; Training and evaluation of convolutional neural networks (CNNs)</i>\
 \
 <b>Internship, University of Klagenfurt</b> | Feb. 2018 - Oct. 2018\
@@ -31,9 +31,9 @@ Evaluation of Machine Learning in iOS (CoreML)\
 <i>Implementing and testing various ML-models (Caffe, Tensorflow) on Apple’s iOS devices</i>
 
 ## Skills
-- Proficiency in `Python`, `JavaScript`, `Swift`, and `Java`
+- Proficiency in `Python`, `Swift`, `JavaScript`, and `Java`
 - Hands-on experience with machine learning frameworks `PyTorch` and `TensorFlow`
-- `SQL`, `Git`, `OpenCV`, `NumPy`, `Pandas`, `scikit-learn`
+- `SQL`, `XCode`, `Git`, `OpenCV`, `NumPy`, `Pandas`, `scikit-learn`
 <!-- - Quick in absorbing new other programming language or technical tool  -->
 - Ability to work independently to accomplish project goals
 - Spoken languages: `German (native)` and `English (professional working proficiency)`
