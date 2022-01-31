@@ -1,7 +1,7 @@
 ---
 title: "(Almost) All books I've read in the last 5-8 years!"
 # date: 2021-11-10T18:34:30-04:00
-last_modified_at: 2021-12-15T16:18:30-04:00
+last_modified_at: 2021-01-31T12:46:00
 categories:
   - blog
 tags:
@@ -39,6 +39,16 @@ The list is not sorted in any particular way, except that my top 5 are on top an
 <div class="notice--success">
   <h4>Quiet: The Power of Introverts in a World That Can't Stop Talking</h4>
   <p>Susan Cain</p>
+</div>
+
+<div class="notice">
+  <h4>Man's Search for Meaning</h4>
+  <p>Viktor E. Frankl</p>
+</div>
+
+<div class="notice">
+  <h4>Transcend: The New Science of Self-Actualization</h4>
+  <p>Scott Barry Kaufman</p>
 </div>
 
 <div class="notice">
