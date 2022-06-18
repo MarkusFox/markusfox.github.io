@@ -1,7 +1,7 @@
 ---
 title: "(Almost) All books I've read in the last 5-8 years!"
 # date: 2021-11-10T18:34:30-04:00
-last_modified_at: 2021-01-31T12:46:00
+last_modified_at: 2021-06-18T10:00:00
 categories:
   - blog
 tags:
@@ -39,6 +39,26 @@ The list is not sorted in any particular way, except that my top 5 are on top an
 <div class="notice--success">
   <h4>Quiet: The Power of Introverts in a World That Can't Stop Talking</h4>
   <p>Susan Cain</p>
+</div>
+
+<div class="notice">
+  <h4>The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness</h4>
+  <p>Morgan Housel</p>
+</div>
+
+<div class="notice">
+  <h4>Das einzige Buch, das du über Finanzen lesen solltest: Der entspannte Weg zum Vermögen</h4>
+  <p>Thomas Kehl, Mona Linke</p>
+</div>
+
+<div class="notice">
+  <h4>Originals: How Non-Conformists Move the World</h4>
+  <p>Adam Grant, Sheryl Sandberg</p>
+</div>
+
+<div class="notice">
+  <h4>How to Change: The Science of Getting from Where You Are to Where You Want to Be</h4>
+  <p>Katy Milkman, Angela Duckworth</p>
 </div>
 
 <div class="notice">
