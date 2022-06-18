@@ -18,6 +18,9 @@ Specialization: <i>Software Development</i>\
 Relevant Coursework: <i>Algorithms & Data structures, Software Engineering, Databases, Selected Topics in Machine Learning, Distributed Systems, Multimedia Apps (iOS & Android)</i>
 
 ## Experience
+<b>iOS Developer, Bike Citizens Mobile Solutions GmbH</b> | Mar. 2022 - present\
+<i>Designing, building, and enhancing the quality of the Bike Citizens Cycling Navigation App for Apple platforms.</i>\
+\
 <b>Research Assistant, University of Klagenfurt</b> | Feb. 2021 - Feb. 2022\
 <!-- SQUASH - Surgical Quality Assessment in Gynecologic Laparoscopy\ -->
 <i>Application of state-of-the-art deep learning algorithms in medical image- and video analysis, e.g. Mask R-CNN, Transformers - to determine surgical quality from videos</i>\
@@ -31,17 +34,21 @@ Evaluation of Machine Learning in iOS (CoreML)\
 <i>Implementing and testing various ML-models (Caffe, Tensorflow) on Apple’s iOS devices</i>
 
 ## Skills
-- Proficiency in `Python`, `Swift`, `JavaScript`, and `Java`
+- Proficiency in `Swift`, `Python`, `JavaScript`
+- `XCode`, `SwiftUI`, `UIKit`, `Git`
 - Hands-on experience with machine learning frameworks `PyTorch` and `TensorFlow`
-- `SQL`, `XCode`, `Git`, `OpenCV`, `NumPy`, `Pandas`, `scikit-learn`
+- `SQL`, `OpenCV`, `NumPy`, `Pandas`, `scikit-learn`
+- Ability to maintain high code quality standards
+- Open-minded and decisive
 <!-- - Quick in absorbing new other programming language or technical tool  -->
 - Ability to work independently to accomplish project goals
+<!-- - Comfortable in communicating with management/colleagues -->
 - Spoken languages: `German (native)` and `English (professional working proficiency)`
 - Good presentation skills
 - Clear, concise writing skills
-- Ability to work effectively in a dynamic/team environment
-- Hands-on experience in implementing computer vision and machine learning algorithms using
-both toolkits and self-developed code
+<!-- - Ability to work effectively in a dynamic/team environment -->
+<!-- - Hands-on experience in implementing computer vision and machine learning algorithms using -->
+<!-- both toolkits and self-developed code -->
 
 ## Publications
 [Pixel-Based Tool Segmentation in Cataract Surgery Videos with Mask R-CNN](https://ieeexplore.ieee.org/iel7/9169740/9182790/09183116.pdf)\

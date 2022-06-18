@@ -1,6 +1,6 @@
 ---
-title: "Projects"
-permalink: /work/
+title: "Deep Learning Projects"
+permalink: /science/
 author_profile: true
 toc: true
 ---
