@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-permalink: /racinginsights_privacy/
+permalink: /racinginsights-privacy/
 author_profile: false
 ---
 
