@@ -16,7 +16,7 @@
 title: 🇦🇹 M.Fox
 email: markus.fox90@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal homepage of computer vision researcher and sim-racer Markus Fox.
+  Personal homepage of iOS developer and sim-racer Markus Fox.
 twitter_username: username
 github_username: markusfox
 minimal_mistakes_skin: dark
@@ -87,6 +87,9 @@ author:
     - label: "Fuel Calculator"
       icon: "fas fa-fw fa-gas-pump"
       url: "/fuel-calculator/"
+    - label: "Privacy Policy"
+      icon: "fas fa-fw fa-gas-pump"
+      url: "/racinginsights-privacy/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
