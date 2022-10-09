@@ -6,7 +6,7 @@ author_profile: false
 
 **I'm pleased to announce that we are live and you’re officially invited to see what’s new. Download on the App Store today.**
 
-![Racing Insights downloadable now](https://markusfox.github.io/assets/images/racing_insights-1280x720.png)
+[![Racing Insights downloadable now](https://markusfox.github.io/assets/images/racing_insights-1280x720.png)](https://apps.apple.com/us/app/racing-insights/id1638593610?itsct=apps_box_promote_link&itscg=30200)
 
 **Contact**
 
