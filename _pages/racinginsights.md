@@ -4,9 +4,9 @@ permalink: /racing-insights-app/
 author_profile: false
 ---
 
-**Now available on all iPhones/Apple Watches that support iOS16/watchOS9!**
+**I'm pleased to announce that we are live and you’re officially invited to see what’s new. Download on the App Store today.**
 
-More infos and App Store Previews coming soon!
+![Racing Insights downloadable now](https://markusfox.github.io/assets/images/racing_insights-1280x720.png)
 
 **Contact**
 

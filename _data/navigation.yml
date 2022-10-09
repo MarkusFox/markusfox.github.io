@@ -1,4 +1,6 @@
 main:
+  - title: "Sim-Racing App"
+    url: /racing-insights-app/
   - title: "Deep Learning"
     url: /science/
   # - title: "Posts"
