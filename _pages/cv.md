@@ -7,16 +7,6 @@ toc: true
 <!-- # Hello World -->
 <!-- I am a machine learning research engineer with a strong interest in understanding general/artificial intelligence and human nature. I love spending time musing about ideas and possibilities, and I want to apply my problem-solving and technical skills to benefit other people and organizations. -->
 
-## Education
-<b>Dipl.-Ing. (MSc) Applied Informatics, University of Klagenfurt</b> | Feb. 2019 - Feb. 2021\
-Specialization: <i>Knowledge & Data Engineering</i>\
-Relevant Coursework: <i>Applied Machine Learning, Data Mining and Neurocomputing, Advanced Topics in AI, [Object Detection with Mask R-CNN and Capsule Networks](https://github.com/MarkusFox/residual-capsnet)</i>\
-<!-- <iframe src="https://drive.google.com/file/d/1UM23Y5VIqS9wPzEMlFLqM0rwx9mTBgud/preview" width="640" height="480"></iframe> -->
-\
-<b>BSc Applied Informatics, University of Klagenfurt</b> | Oct. 2015 - Feb. 2019\
-Specialization: <i>Software Development</i>\
-Relevant Coursework: <i>Algorithms & Data structures, Software Engineering, Databases, Selected Topics in Machine Learning, Distributed Systems, Multimedia Apps (iOS & Android)</i>
-
 ## Experience
 <b>iOS Developer, Bike Citizens Mobile Solutions GmbH</b> | Mar. 2022 - present\
 <i>Designing, building, and enhancing the quality of the Bike Citizens Cycling Navigation App for Apple platforms.</i>\
@@ -33,11 +23,21 @@ Relevant Coursework: <i>Algorithms & Data structures, Software Engineering, Data
 Evaluation of Machine Learning in iOS (CoreML)\
 <i>Implementing and testing various ML-models (Caffe, Tensorflow) on Apple’s iOS devices</i>
 
+## Education
+<b>Dipl.-Ing. (MSc) Applied Informatics, University of Klagenfurt</b> | Feb. 2019 - Feb. 2021\
+Specialization: <i>Knowledge & Data Engineering</i>\
+Relevant Coursework: <i>Applied Machine Learning, Data Mining and Neurocomputing, Advanced Topics in AI, [Object Detection with Mask R-CNN and Capsule Networks](https://github.com/MarkusFox/residual-capsnet)</i>\
+<!-- <iframe src="https://drive.google.com/file/d/1UM23Y5VIqS9wPzEMlFLqM0rwx9mTBgud/preview" width="640" height="480"></iframe> -->
+\
+<b>BSc Applied Informatics, University of Klagenfurt</b> | Oct. 2015 - Feb. 2019\
+Specialization: <i>Software Development</i>\
+Relevant Coursework: <i>Algorithms & Data structures, Software Engineering, Databases, Selected Topics in Machine Learning, Distributed Systems, Multimedia Apps (iOS & Android)</i>
+
 ## Skills
 - Proficiency in `Swift`, `Python`, `JavaScript`
 - `XCode`, `SwiftUI`, `UIKit`, `Git`
 - Hands-on experience with machine learning frameworks `PyTorch` and `TensorFlow`
-- `SQL`, `OpenCV`, `NumPy`, `Pandas`, `scikit-learn`
+- `SQL`, `NumPy`, `Pandas`, `scikit-learn`, `OpenCV`
 - Ability to maintain high code quality standards
 - Open-minded and decisive
 <!-- - Quick in absorbing new other programming language or technical tool  -->
@@ -54,3 +54,7 @@ Evaluation of Machine Learning in iOS (CoreML)\
 [Pixel-Based Tool Segmentation in Cataract Surgery Videos with Mask R-CNN](https://ieeexplore.ieee.org/iel7/9169740/9182790/09183116.pdf)\
 <i>Fox, M., Taschwer, M., & Schoeffmann, K.</i>\
 In 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS)
+
+[The Impact of Dataset Splits on Classification Performance in Medical Videos](https://dl.acm.org/doi/abs/10.1145/3512527.3531424) 
+<i>Fox, M & Schoeffmann, K.</i> 
+In Proceedings of the 2022 International Conference on Multimedia Retrieval (ICMR '22)
