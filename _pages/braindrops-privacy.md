@@ -1,3 +1,9 @@
+---
+title: "BrainDrops App - Privacy Policy"
+permalink: /braindrops-privacy/
+author_profile: false
+---
+
 **Privacy Policy**
 
 Markus Fox built the BrainDrops app as a Commercial app. This SERVICE is provided by Markus Fox and is intended for use as is.
