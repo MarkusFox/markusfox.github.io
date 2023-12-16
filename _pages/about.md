@@ -7,7 +7,7 @@ title: "About"
 
 I've recently finished my `Dipl.-Ing. (MSc)` in `computer science` at the *University of Klagenfurt*. Now, I want to apply my problem-solving and technical skills to the benefit of people and organizations. I'm looking for an employer/team that tries to solve exciting and challenging problems, while respecting the work-life balance of their employees. -->
 
-My name is `Markus Fox`. I’m a `computer scientist`, developing software, analyzing data, and finding use-cases for applying AI algorithms.
+My name is `Markus Fox`. I’m an `AI/Software Engineer` from Austria.
 
 Technology and sports have always been at the center of my attention. In the past, I have been active in various activities and roles. I‘m a former pool billiard and semi-professional poker player. I have also competed in multiple eSports tournaments (HoN, DotA). Nowadays, I’m a `passionate sim-racer`, competing in online championships and one-off events. Last but not least, I have acquired a master’s degree in computer science, where I specialized in `software development` and `machine learning`.
 
