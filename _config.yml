@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Markus Fox"
   avatar : "/assets/images/photo.png"
-  bio    : "Computer Scientist (iOS 📱, Data 📊, Vision 🩻), Sim Racer (ACC), loves NFL 🏈, and Motorsport 🏁."
+  bio    : "AI/Software Engineer. Passionate Sim Racer (ACC). Crafting innovative solutions at the intersection of technology and passion."
   links:
   # ICONS at https://fontawesome.com/icons?d=gallery&p=9&m=free
     - label: "Klagenfurt, Austria"
@@ -84,9 +84,9 @@ author:
     - label: "TheSimGrid"
       icon: "fas fa-fw fa-flag-checkered"
       url: "https://www.thesimgrid.com/drivers/9578-markusfox"
-    - label: "Fuel Calculator"
-      icon: "fas fa-fw fa-gas-pump"
-      url: "/fuel-calculator/"
+    # - label: "Fuel Calculator"
+    #   icon: "fas fa-fw fa-gas-pump"
+    #   url: "/fuel-calculator/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -108,9 +108,9 @@ footer:
     - label: " "
       icon: "fas fa-fw fa-flag-checkered"
       url: "https://www.thesimgrid.com/drivers/9578-markusfox"
-    - label: " "
-      icon: "fas fa-fw fa-gas-pump"
-      url: "/fuel-calculator/"
+    # - label: " "
+    #   icon: "fas fa-fw fa-gas-pump"
+    #   url: "/fuel-calculator/"
 
 defaults:
   # _posts
