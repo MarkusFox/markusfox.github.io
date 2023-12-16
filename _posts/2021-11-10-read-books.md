@@ -1,7 +1,7 @@
 ---
 title: "(Almost) All books I've read in the last 5-8 years!"
 # date: 2021-11-10T18:34:30-04:00
-last_modified_at: 2023-01-02T12:59:00
+last_modified_at: 2023-12-16T17:55:00
 categories:
   - blog
 tags:
@@ -39,6 +39,26 @@ The list is not sorted in any particular way, except that my top 5 are on top an
 <div class="notice--success">
   <h4>Quiet: The Power of Introverts in a World That Can't Stop Talking</h4>
   <p>Susan Cain</p>
+</div>
+
+<div class="notice">
+  <h4>An Astronaut's Guide to Life on Earth</h4>
+  <p>Chris Hadfield</p>
+</div>
+
+<div class="notice">
+  <h4>Same as Ever</h4>
+  <p>Morgan Housel</p>
+</div>
+
+<div class="notice">
+  <h4>Courage is Calling</h4>
+  <p>Ryan Holiday</p>
+</div>
+
+<div class="notice">
+  <h4>Four Thousand Weeks</h4>
+  <p>Oliver Burkeman</p>
 </div>
 
 <div class="notice">
