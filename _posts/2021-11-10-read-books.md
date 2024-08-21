@@ -1,7 +1,7 @@
 ---
 title: "(Almost) All books I've read in the last 5-8 years!"
 # date: 2021-11-10T18:34:30-04:00
-last_modified_at: 2023-12-16T17:55:00
+last_modified_at: 2024-08-21T19:55:00
 categories:
   - blog
 tags:
@@ -39,6 +39,41 @@ The list is not sorted in any particular way, except that my top 5 are on top an
 <div class="notice--success">
   <h4>Quiet: The Power of Introverts in a World That Can't Stop Talking</h4>
   <p>Susan Cain</p>
+</div>
+
+<div class="notice">
+  <h4>The War on the West</h4>
+  <p>Douglas Murray</p>
+</div>
+
+<div class="notice">
+  <h4>Fooled by Randomness</h4>
+  <p>Nassim Nicholas Taleb</p>
+</div>
+
+<div class="notice">
+  <h4>The Power of One More</h4>
+  <p>Ed Mylett</p>
+</div>
+
+<div class="notice">
+  <h4>The Hitchhiker's Guide to the Galaxy</h4>
+  <p>Douglas Adams</p>
+</div>
+
+<div class="notice">
+  <h4>The Lean Startup</h4>
+  <p>Eric Ries</p>
+</div>
+
+<div class="notice">
+  <h4>Steal the Show</h4>
+  <p>Michael Port</p>
+</div>
+
+<div class="notice">
+  <h4>Build: An Unorthodox Guide to Making Things Worth Making</h4>
+  <p>Tony Fadell</p>
 </div>
 
 <div class="notice">

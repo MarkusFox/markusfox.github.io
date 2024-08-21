@@ -32,11 +32,11 @@ toc: true
 
 ## Experience
 
-<b>AI/Software Engineer, Avemoy</b> | Apr. 2023 - present\
-<i>Building a cloud backend from scratch for greenhouse harvest prediction using DeepSORT/Yolo, FastAPI, MongoDB; Designing and implementing a React Frontend customer dashboard</i>\
-\
 <b>Founder, Racing Insights App</b> | Apr. 2022 - present\
 <i>Creator, Developer, Designer of the iOS/iPadOS/watchOS App for Sim-Racing</i>\
+\
+<b>AI/Software Engineer, Avemoy</b> | Apr. 2023 - July 2024\
+<i>Building a cloud backend from scratch for greenhouse harvest prediction using DeepSORT/Yolo, FastAPI, MongoDB; Designing and implementing a React Frontend customer dashboard</i>\
 \
 <b>iOS Developer, Bike Citizens Mobile Solutions GmbH</b> | Mar. 2022 - Feb. 2023\
 <i>Designing, building, and enhancing the quality of the Bike Citizens Cycling Navigation App for Apple platforms mainly using Swift</i>\
